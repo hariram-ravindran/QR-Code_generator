@@ -13,9 +13,7 @@ Run `pip install qrcode`
 - Execute `python3 QR_code_generator.py`
 
 ### Screenshot showing the sample use of the script
-<p align="center">
-  <a href="output 1.png"><img src="![image](https://github.com/user-attachments/assets/afe69a87-dbcf-440d-8ac8-29ed742f14ef)
-" alt="url_qrcode"></a>
-</p>
+![image](https://github.com/user-attachments/assets/267d0e8e-64bd-4e73-91ed-3520bd83d0ac)
+
 ## *Author Name*
 [hariram](https://github.com/hariram-ravindran)
